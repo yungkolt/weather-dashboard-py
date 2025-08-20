@@ -228,7 +228,7 @@ def main():
     # Header
     st.markdown('<h1 class="main-header">🌤️ Advanced Weather Dashboard</h1>', 
                 unsafe_allow_html=True)
-    st.markdown("**Cloud Engineering Portfolio Project** | Real-time weather monitoring with free APIs")
+    st.markdown("**Cloud Engineering Weather App** | Real-time weather monitoring with free APIs")
     
     # Sidebar for configuration
     with st.sidebar:
@@ -257,7 +257,7 @@ def main():
             st.rerun()
         
         st.markdown("---")
-        st.markdown("### 🛠️ Cloud Engineering Skills Demonstrated")
+        st.markdown("### 🛠️ Features")
         st.markdown("""
         - **API Integration**: Multiple free weather APIs
         - **Error Handling**: Robust exception management
@@ -483,8 +483,7 @@ def main():
     st.markdown(f"""
     <div style="text-align: center; color: #666; padding: 2rem;">
         <p>Built with Python, Streamlit, and Free Weather APIs</p>
-        <p>No API keys required! | Data from {api_source}</p>
-        <p>Perfect for Cloud Engineering Portfolio</p>
+        <p>No API keys required! | Data from {api_source}</p>        
     </div>
     """, unsafe_allow_html=True)
 
