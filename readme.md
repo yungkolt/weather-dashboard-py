@@ -130,10 +130,13 @@ weather-dashboard/
 ## 🎨 Screenshots
 
 ### Dashboard Overview
-![Weather Dashboard Overview](screenshots/app.png)
+![Weather Dashboard Overview](screenshots/main-dashboard.png)
 
-### Application Features
+### 🌍 Multiple Cities & Data Sources
 ![Temperature Gauge](screenshots/features.png)
+
+### 📊 Interactive Charts
+![Forecast Charts](screenshots/forecast.png)
 
 ## 🌐 Deployment Options
 
