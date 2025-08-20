@@ -8,7 +8,7 @@ A professional weather monitoring application built with Python and Streamlit, d
 
 ## 🎯 Project Overview
 
-This weather dashboard showcases key technical skills relevant to cloud engineering roles:
+This weather dashboard showcases key technical skills relevant to cloud engineering:
 
 - **API Integration**: RESTful API consumption with error handling
 - **Real-time Data Processing**: Live weather data with automatic updates
@@ -129,7 +129,11 @@ weather-dashboard/
 
 ## 🎨 Screenshots
 
-*Add screenshots of your dashboard here when deployed*
+### Dashboard Overview
+![Weather Dashboard Overview](screenshots/app.png)
+
+### Application Features
+![Temperature Gauge](screenshots/features.png)
 
 ## 🌐 Deployment Options
 
