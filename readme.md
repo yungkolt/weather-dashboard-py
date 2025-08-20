@@ -133,7 +133,7 @@ weather-dashboard/
 ![Weather Dashboard Overview](screenshots/main-dashboard.png)
 
 ### 🌍 Multiple Cities & Data Sources
-![Temperature Gauge](screenshots/features.png)
+![Temperature Gauge](screenshots/city-selection.png)
 
 ### 📊 Interactive Charts
 ![Forecast Charts](screenshots/forecast.png)
